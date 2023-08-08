@@ -1,6 +1,6 @@
 # CovidData-Analysis
 
-Welcome to my comprehensive COVID-19 data analysis portfolio. The analysis takes into account datasets sourced from Our World in Data and provides a deep dive into various insights that can be gleaned from the data. The portfolio covers the complete data pipeline, from data collection to visualization, providing you with a meticulous study that you can trust.
+Welcome to my in-depth COVID-19 data analysis portfolio! Drawing from datasets sourced from Our World in Data spanning from 2020 to May 2023, this portfolio dives deep into myriad insights surrounding the pandemic. Traverse the complete data journey with me – from meticulous collection to vivid visualization – and gain a comprehensive understanding of the pandemic's data landscape that you can rely on.
 
 # 🚀 Features
 **Data Cleaning**: Leveraging the power of Python to ensure a clean dataset by removing anomalies and missing values. <br />
