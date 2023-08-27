@@ -35,6 +35,8 @@ Welcome to my in-depth COVID-19 data analysis portfolio! Drawing from datasets s
 # 📊 Sample Visualizations
 ![Dashboard 1](https://github.com/Fuxiao-Gao/CovidData-Analysis/assets/116308835/c9455fb0-53b3-4aef-8d0b-e4200b18bd84)
 
+![Dashboard 2](https://github.com/Fuxiao-Gao/Data-Analysis_Portfolio/assets/116308835/0223b7d0-38e3-448d-a1f4-f10fe3f69dca)
+
 # 📝 Notes
 This portfolio provides a holistic view of the COVID-19 data till the date of the last update. The insights are derived from rigorous data analysis practices, ensuring accuracy and relevance. Always cross-check with the latest data and advisories from health organizations.
 
